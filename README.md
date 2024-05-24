@@ -1,7 +1,7 @@
 ![logo](https://github.com/RiverieAnshi/RiverieAnshi/blob/main/himanshi%20github%20banner.png)
 <h1 align="center">Hi 👋, I'm Himanshi</h1>
 <h3 align="center">An passionate frontend developer from India</h3>
-<img align ="right" alt ="coding" width = "400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsuchandra-banik-81064196_newbeginnings2023-careeradvancement-adtech-activity-7104780915930779648-rocH%3Ftrk%3Dpublic_profile_like_view&psig=AOvVaw30OI8MBfh8G7NBZcNt4X6u&ust=1716586954557000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiht4rfpIYDFQAAAAAdAAAAABAR">
+<img align ="right" alt ="coding" width = "400" src ="C:\Users\pramk\Downloads\gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshi&label=Profile%20views&color=0e75b6&style=flat" alt="himanshi" /> </p>
 
